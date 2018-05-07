@@ -443,6 +443,7 @@ var DataService = /** @class */ (function () {
         }
         return this.questions;
     };
+    //bugs need fix 奇怪了???
     // addQuestion(q:Question){
     //   if(localStorage.getItem("questions")==null){
     //     this.questions = [];
