@@ -1,2 +1,4 @@
 .DS_Store
 Blog
+*.xml
+.idea/zhuhongyin.github.io.iml
